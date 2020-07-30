@@ -7,3 +7,4 @@
 # In progress
 - Sort scores by playername,mods,combo and other saved replay statistics
 - Search scores in time period
+- Save all info in file
